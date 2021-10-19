@@ -1,0 +1,1 @@
+This project is a C++ code sample. It is an implementation of some C++ standard facilities in a system where C++ std library is not supported. Given the limited time and environment, exception and thread-safety are not supported (actually they are not supported by the underlying system).
